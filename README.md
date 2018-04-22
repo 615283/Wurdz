@@ -7,8 +7,8 @@ k peeps yo gonna go to wurdz.yml and brainstrom all dat nasty language
 2. Don't be a nasty kiddo
 3. prae 2 our god pingu
 <dl>
-<p>69. read the number\n
-426. Tell clip to commit\n
-666. kill urself\n
-1000000. join brocraftlive.net and mc.615283.net</p>
+<p>69. read the number</p>
+<p>426. Tell clip to commit</p>
+<p>666. kill urself</p>
+<p>1000000. join brocraftlive.net and mc.615283.net</p>
 </dl>
