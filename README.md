@@ -1,22 +1,20 @@
-# Wurdz
-wateva
-k peeps yo gonna go to wurdz.yml and brainstrom all dat nasty language
+# Banned Words
+This repository is a constantly changing database of bad language. It is used in plugins like RenameFilter. You may use this database in your projects however you must provide credit to the authors as listed below:
+* 615283
+* lewis2470
+* Banbeucmas
+* GlareMasters (darbyjack)
+* extendedclip
+* GabyTM
+* rumplepusscat
 
-# Rulez
-<dl>
-  <h3>Read dis m9</h3>
-  <p>1. Dem words gotta be hella nasty and non-kristian</p>
-  <p>2. Don't be a nasty kiddo</p>
-  <p>3. prae 2 our god pingu</p>
-  <p>69. read the number</p>
-  <p>426. Tell clip to commit</p>
-  <p>666. kill urself</p>
-  <p>1000000. join brocraftlive.net and mc.615283.net</p>
-</dl>
+# Contributing
+We are always welcoming more contributors, especially in different languages. Please feel free to fork off from this repository and create a pull request. Most of these we will accept unless we have a genuine reason not to.
+
+# Rules
+* ~~No profanity~~
+* Not much to say here to be totally honest
 
 # TODO
-<dl>
-  <p>1. Separate sweary words to languages</p>
-  <p>2. Suggest more TODO??</p>
-</dl>
- 
+1. More languages
+2. More plugins using this database
