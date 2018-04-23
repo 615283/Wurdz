@@ -4,6 +4,7 @@ k peeps yo gonna go to wurdz.yml and brainstrom all dat nasty language
 
 # Rulez
 <dl>
+  <h3>Read dis m9</h3>
   <p>1. Dem words gotta be hella nasty and non-kristian</p>
   <p>2. Don't be a nasty kiddo</p>
   <p>3. prae 2 our god pingu</p>
