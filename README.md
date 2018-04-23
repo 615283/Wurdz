@@ -13,7 +13,7 @@ k peeps yo gonna go to wurdz.yml and brainstrom all dat nasty language
   <p>1000000. join brocraftlive.net and mc.615283.net</p>
 </dl>
 
-#TODO
+# TODO
 <dl>
   <p>1. Separate sweary words to languages</p>
   <p>2. Suggest more TODO??</p>
