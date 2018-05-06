@@ -4,6 +4,7 @@ This repository is a constantly changing database of bad language. It is used in
 * lewis2470
 * Banbeucmas
 * PiggyPiglet
+* Lucemans
 * GlareMasters (darbyjack)
 * extendedclip
 * GabyTM
